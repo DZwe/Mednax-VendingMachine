@@ -1,5 +1,5 @@
 # Mednax-VendingMachine
-Project Presentation for Mednax Vending Machine Problem
+Project Presentation for Mednax Vending Machine Problem. Code is written in Node.js and test scripts are written in Mocha.
 
 # Run Steps
 - Ensure npm and node is installed.
