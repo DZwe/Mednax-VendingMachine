@@ -1,0 +1,20 @@
+{
+  "name": "vending_machine",
+  "version": "1.0.0",
+  "description": "Vending machine for Mednax interview question.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec",
+    "start": "node -e 'require(\"./app/vending_machine\").start_function()'"
+  },
+  "author": "Zwe Phone Shein",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "mocha": "^9.0.3",
+    "prompt-sync": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
